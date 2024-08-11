@@ -60,6 +60,11 @@ h4{
     text-decoration: none;
 }
 
+.d-grid button a{
+    color: #FFF;
+    text-decoration: none;
+}
+
 .form-control, .form-select{
     transition: 0.55s linear;
     cursor: pointer;
